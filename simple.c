@@ -7,6 +7,7 @@ int main() {
         for (j=1; j<=i; ++j)
         { printf("%d ",j); }
         printf("MergeConflict");
+	printf("Making more changes");
     }
     return 0;
 }
